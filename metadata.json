@@ -1,0 +1,7 @@
+{
+  "name": "Teacher's AI Reply Assistant — Ultimate v3.0",
+  "description": "An ultimate, client-side AI assistant for Qur’an and Arabic teachers with student memory, context-aware replies, an inline AI response builder, voice input, and smart reminders.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
